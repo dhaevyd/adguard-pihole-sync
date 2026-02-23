@@ -1,6 +1,6 @@
 # 🚀 AdGuard to Pi-hole DNS Sync
 
-![Version](https://img.shields.io/badge/version-1.3.0-blue)
+![Version](https://img.shields.io/badge/version-1.5.0-blue)
 ![Python](https://img.shields.io/badge/python-3.7+-green)
 ![Pi-hole](https://img.shields.io/badge/Pi--hole-v6-red)
 ![AdGuard](https://img.shields.io/badge/AdGuard-Home-blue)
